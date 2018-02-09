@@ -9,4 +9,5 @@ Describe your first independent coding process (in relation to thinking, reading
 
 How your coding process is different or similar to reading and writing text?
 
+
 What might be the potential and possibility of coding practice?
