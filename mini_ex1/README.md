@@ -3,7 +3,7 @@
 
 
 **URL link to my program:**
-https://rawgit.com/TrineElming/mini_ex/master/mini_ex1/index.html
+https://rawgit.com/TrineElming/mini_ex/master/mini_ex1/sketch.js
 
 
 **Describe your first independent coding process (in relation to thinking, reading, copying, modifying, writing, uploading, sharing, commenting code.**
