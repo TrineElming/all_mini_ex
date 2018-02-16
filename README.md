@@ -1,1 +1,1 @@
-Submissions of all mini_ex
+Here, I will be submitting of all the mini exersizes
