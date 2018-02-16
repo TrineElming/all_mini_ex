@@ -5,6 +5,7 @@
 **URL link to mini_ex2:**
 https://rawgit.com/TrineElming/mini_ex/master/mini_ex2/sketch.js
 
+
 Describe your program and what you have used and learnt:
 
 What is fun? To what extend your program addresses Goriunova's noton of fun? Is it fun in relation to geekiness, or humour, or paradox, or other modes of thoughts? (This question requires your articulation of your work beyond just describing how it works technically):
