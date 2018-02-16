@@ -3,7 +3,7 @@
 
 
 **URL link to mini_ex2:**
-https://rawgit.com/TrineElming/mini_ex/master/mini_ex2/sketch.js
+https://rawgit.com/TrineElming/mini_ex/master/mini_ex2/index.html
 
 
 Describe your program and what you have used and learnt:
