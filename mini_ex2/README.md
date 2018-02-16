@@ -16,5 +16,4 @@ In her text "Fun and Software" Olga Goriunova, among other definitions, describe
 
 
 **References:**
-
 Goriunova, Olga (2014) Fun and Software. Exploring Pleasure, Paradox and Pain in Computing, Bloomsbury, New York, NY, 1-19.
