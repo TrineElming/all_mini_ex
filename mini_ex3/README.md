@@ -4,3 +4,4 @@
 
 
 **URL link to mini_ex2:**
+https://rawgit.com/TrineElming/mini_ex/master/mini_ex3/index.html
