@@ -12,5 +12,4 @@ In my project I based my throbber-design on Winnies created function, *drawThrob
 
 In general, it seems that throbbers frustrate people, because they don't like the waiting, and that is what a throbber symbolizes. In the text "Fidget Spinners" by Jason Farman, he mentions that throbbers, and waiting icons in general, are what makes us wait longer, than if there were no icon – and progress bars are even better than throbbers at making us wait for something, because you can see the progress of the result that is loading. (Farman, 2017) But with my project, I wanted the throbber to be different, as I think many throbbers are simple in their design as before mentioned, with limited use of colors. I wanted to make somthing that is not boring to look at, even though it resembles the standard throbber design. 
 
-References
-Farman, Jason (2017). Fidget Spinners. Real Life Magazine. Retrieved from http://reallifemag.com/fidget-spinners/
+**References:** Farman, Jason (2017). Fidget Spinners. Real Life Magazine. Retrieved from http://reallifemag.com/fidget-spinners/
