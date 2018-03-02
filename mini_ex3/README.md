@@ -1,9 +1,9 @@
-**Screenshot of mini_ex2:**
+**Screenshot of mini_ex3:**
 ![ScreenShot](https://github.com/TrineElming/mini_ex/blob/master/mini_ex3/mini_ex3.jpg)
 
 
 
-**URL link to mini_ex2:**
+**URL link to mini_ex3:**
 https://rawgit.com/TrineElming/mini_ex/master/mini_ex3/index.html
 
 
