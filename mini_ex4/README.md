@@ -1,6 +1,6 @@
 **Screenshot of mini_ex2:**
-![ScreenShot]()
-
+![ScreenShot](https://github.com/TrineElming/mini_ex/blob/master/mini_ex4/mini_ex4b.jpg)
+![ScreenShot](https://github.com/TrineElming/mini_ex/blob/master/mini_ex4/mini_ex4a.jpg)
 
 
 **URL link to mini_ex2:**
