@@ -1,5 +1,5 @@
 **Screenshot of mini_ex4:**
-![ScreenShot]()
+![ScreenShot](https://github.com/TrineElming/mini_ex/blob/master/mini_ex5/icecream.jpg)
 
 
 
