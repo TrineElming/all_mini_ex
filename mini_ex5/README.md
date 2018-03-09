@@ -8,6 +8,7 @@ https://rawgit.com/TrineElming/mini_ex/master/mini_ex5/index.html
 
 
 
+
 Describe how does your game/game object works?
 
 Describe how you program the objects and their related attributes and methods in your game.
