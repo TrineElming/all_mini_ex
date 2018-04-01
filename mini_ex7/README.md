@@ -5,7 +5,7 @@
 
 
 **URL link to mini_ex7:**
-https://rawgit.com/TrineElming/all_mini_ex/master/mini_ex7/index.html
+https://rawgit.com/TrineElming/all_mini_ex/master/mini_ex7/index.html (open in Google Chrome)
 
 
 
