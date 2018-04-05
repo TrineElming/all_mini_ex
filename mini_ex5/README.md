@@ -1,4 +1,3 @@
-**Screenshot of mini_ex5:**
 ![ScreenShot](https://github.com/TrineElming/mini_ex/blob/master/mini_ex5/icecream.jpg)
 
 
