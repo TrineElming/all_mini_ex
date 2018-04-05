@@ -8,7 +8,7 @@ img3 = loadImage('data/beyonce-hand.png');
 }
 function setup() {
 createCanvas(600, 800);
-loadJSON('http://api.openweathermap.org/data/2.5/weather?q=Dubai&APPID=c1cf7d922ce7a8df0cedb81b7aad1227&units=metric', gotData);
+loadJSON('http://api.openweathermap.org/data/2.5/weather?q=Aarhus&APPID=c1cf7d922ce7a8df0cedb81b7aad1227&units=metric', gotData);
 //try to change the city in the URL, from Aarhus to Dubai for example, to see how long Beyonce's skirt is in that temperature.
 
 }
