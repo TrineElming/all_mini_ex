@@ -1,3 +1,12 @@
 ![ScreenShot](https://github.com/TrineElming/all_mini_ex/blob/master/mini_ex8/beyonce.jpg)
 
-https://rawgit.com/TrineElming/all_mini_ex/master/mini_ex8/index.html
+*ATTENTION!
+Unfortunately the link to this program refuses to work, perhaps because it involves an API – so the photos above display two conditions in the program: the photo in the right was the temperature in the city of Aarhus last thursday, and the photo on the left was the temperature in Dubai on the same day. This is explained further in the text below.*
+
+In this mini exercise I collaborated with Mette Mark Sørensen, in creating the project. The program displays a photo of the singer Beyoncé on a pink background, with a seperate skirt attached to the photo. The skirt represents data from the API that Dan Shiffman presents in one of his YouTube-videos, whoch is the API from the website https://openweathermap.org.
+In the program, we used the data of temperature from the city of Aarhus to be displayed in the length of the skirt attached to Beyoncé. This means that if the temperature is below or past certain temperatures the lenght of the skirt changes. So if the temperature is low, the skirt is longer and if the temperature is high, the skirt is shorter.
+At first Mette and I tried to search for APIs ourselves, but could not find any that were free. So we ended up taking a more fun approach to the assignment than we originally planned, but all in all we think it displays the use of API and especially temperature in a different way than you are used to seeing it, and this was why we chose to create it the way we did.
+
+As previously stated, Mette and I tried to find new API that we had not seen used, as we did with the weather-data from Dan Shiffman's video on YouTube. This was more difficult than we thought, as it turned out that the APis we found interesting was not free as the data from the openweathermap.org. This was why we decided to use the weather-data instead, as it was free and seemed easy to use. I found it very simple to understand how to use API in coding, especially with Dan Shiffman explaining it in his video. The technical part of it seem a bit more difficult to comprehend in my opinion, but working with it in this program was very interesting, and I enjoyed using something "outside" of the p5.js library.
+
+Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.
