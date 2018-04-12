@@ -6,6 +6,7 @@ What may be the difficulty in drawing the flow chart?
 In the studygroup:
 Present two different ideas with two different flow charts (it is important to think about the balance between simplicity and complexity. How can we get a sense of what's your program about?)
 
+https://github.com/TrineElming/all_mini_ex/blob/master/mini_ex9/pussygrabsback.png
 *"Pussy Grabs Back"*
 We want to create a game that focuses on the #metoo movement. Our plan is to create a game where the player is a Pussycat that is trying to defeat all the misogynist and sexist men. The men are going to be objects that are meant to portray some of the famous men that are known for having sexist opinions or in other ways have offended women. The idea is that the pussy grabs back by eating the men in the game. The men-objects are falling down from the top line of the canvas, and as the game continues and the Pussycat eats the men, the speed of the men falling from the topline increases, so it will become more challenging for the pussycat to eat the men. If the pussycat misses on, the game is over. The reason we haven’t created it with more than one life, is to emphasize how important it is to stay woke and let no sexist go free. 
 We have also chosen to create an end on the game, so when the pussycat has eaten all of the sexists she has won the game.
