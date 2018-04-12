@@ -1,11 +1,11 @@
 ![ScreenShot](https://github.com/TrineElming/all_mini_ex/blob/master/mini_ex9/hotasyonce.png)
 
 *"Hot as Yoncé"*
-Link to the mini_ex8-file: https://github.com/TrineElming/all_mini_ex/tree/master/mini_ex8
-
+<dd>Link to the mini_ex8-file: https://github.com/TrineElming/all_mini_ex/tree/master/mini_ex8
 
 What may be the difficulty in drawing the flow chart?
 
+</dd>
 
 In the studygroup:
 Present two different ideas with two different flow charts (it is important to think about the balance between simplicity and complexity. How can we get a sense of what's your program about?)
