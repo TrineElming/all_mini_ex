@@ -1,5 +1,3 @@
-Individual
-
 #### "Hot as Yoncé"
 
 ![ScreenShot](https://github.com/TrineElming/all_mini_ex/blob/master/mini_ex9/hotasyonce.png)
