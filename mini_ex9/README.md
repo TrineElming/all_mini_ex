@@ -1,12 +1,12 @@
 ![ScreenShot](https://github.com/TrineElming/all_mini_ex/blob/master/mini_ex9/hotasyonce.png)
 
-<dl>
+
 *"Hot as Yoncé"*
-<dd>Link to the mini_ex8-file: https://github.com/TrineElming/all_mini_ex/tree/master/mini_ex8
+Link to the mini_ex8-file: https://github.com/TrineElming/all_mini_ex/tree/master/mini_ex8
 
 What may be the difficulty in drawing the flow chart?
 
-</dd>
+
 
 In the studygroup:
 Present two different ideas with two different flow charts (it is important to think about the balance between simplicity and complexity. How can we get a sense of what's your program about?)
@@ -32,4 +32,4 @@ Individual:
 How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
 
 If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
-</dl>
+
