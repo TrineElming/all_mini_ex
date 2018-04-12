@@ -1,3 +1,4 @@
+https://github.com/TrineElming/all_mini_ex/blob/master/mini_ex9/hotasyonce.png
 *"Hot as Yoncé"*
 What may be the difficulty in drawing the flow chart?
 
