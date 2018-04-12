@@ -1,3 +1,5 @@
+### Individual
+
 *"Hot as Yoncé"*
 
 ![ScreenShot](https://github.com/TrineElming/all_mini_ex/blob/master/mini_ex9/hotasyonce.png)
@@ -6,10 +8,7 @@ Link to the mini_ex8-file: https://github.com/TrineElming/all_mini_ex/tree/maste
 
 What may be the difficulty in drawing the flow chart?
 
-
-
-In the studygroup:
-Present two different ideas with two different flow charts (it is important to think about the balance between simplicity and complexity. How can we get a sense of what's your program about?)
+### Studygroup:
 
 *"Pussy Grabs Back"*
 
@@ -30,7 +29,7 @@ In our second project, we want to use two different API’s; one that collects t
 Another technical difficulty will occur when the API-data increases - we have to be very calculated in terms of how much the “garbage island” should grow. This probably requires some experimenting in terms of investigating how much the level of pollution actually grows, and how we can reflect and put emphasis on this in our program. 
 
 
-Individual:
+### Individual:
 How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
 
 If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
