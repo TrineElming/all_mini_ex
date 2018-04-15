@@ -32,6 +32,11 @@ ________
 
 The two flowcharts above created in the studygruop, "Pussy Grabs Back" and "Stay Woke" are different from the one I created myself in how the code for the two created in my studygroup does come with an existing program, as "Hot as Yoncé" does. 
 This resulted in more technical flowcharts, as we thought out the syntax as we created the flowchart, and did not take into consideration what we are able to code at the moment. 
+________
 
-If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+For the past weeks' lecture we read the text "What Algorithms Want" by Ed Finn, and in this he writes about algorithms in general and how they are percieved and used. The quote I want to adress is the following: 
+
+*"Algorithms are everywhere. They already dominate the stock market, compose music, drive cars, write news articles, and author long mathematical proofs—and their powers of creative authorship are just beginning to take shape."* (p. 15)
+
+One of subjects of Finn's text is that algorithms are percieved as magic by most people, because it functions as the examples listed above – but I believe that this is a general problem; that most people don't know how any technologies or softwares actually works. An algorithm is no exception in this issue, and this could be because it is something that we can not see, it is not a physical technology that we can touch, it just works inside machines. I think this is a general issue in that it is also the case with many other technologies that we use everday. For example, I don't actually know how my iPhone really works, I just know how to work it, and how to use it. With this, I think we loose a lot of important knowledge, and it is the same regarding algorithms. We should learn more about the technology behind algorithms, and iPhones for example - as this would help people understand technology and software better.
 
